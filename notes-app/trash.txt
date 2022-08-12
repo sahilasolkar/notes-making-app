@@ -1,0 +1,23 @@
+// const add = require('./utils.js')
+// const sum = add(4,2)
+// console.log(sum)
+
+// const validator = require('validator')
+
+// const message = getnotes()
+// console.log(message)
+// console.log(chalk.green('success'));
+// console.log(chalk.green(
+// 	'I am a green line ' +
+// 	chalk.blue.underline.bold('with a blue substring') +
+// 	' that becomes green again!'
+// ));
+// console.log(chalk.blue.bgRed.bold('Hello world!'));
+// console.log(chalk.blue('Hello', 'World!', 'Foo', 'bar', 'biz', 'baz'));
+// console.log(chalk.bgRed('red' + chalk.bgBlue('blue') + chalk.bgGreen('green')));
+// console.log(chalk.bgGreen('this is a test for the chalk output in green'));
+
+// console.log(validator.isEmail('hello@example.com'))
+// console.log(validator.isURL('https://nodejs.com'))
+// console.log(chalk.red.inverse.bold('error msg'));
+// console.log(chalk.green.inverse.bold('success msg'));
